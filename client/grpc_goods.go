@@ -1,7 +1,7 @@
 package client
 
 import (
-	goods "github.com/lizhenghan-cn/goods_proto/proto"
+	goods "github.com/lizhenghan-cn/goods_service/proto"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 	"log"
