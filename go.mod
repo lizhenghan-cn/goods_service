@@ -1,4 +1,4 @@
-module github.com/lizhenghan-cn/goods_proto
+module github.com/lizhenghan-cn/goods_service
 
 go 1.24
 
